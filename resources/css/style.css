@@ -1,0 +1,56 @@
+* {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  font-family: Verdana;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+}
+
+div video {
+  text-align: Center;
+}
+
+div .personal, h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+div, #memories p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+div, .class, a {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+#comingsoon {
+  text-align: center;
+  color: white;
+  font-size: 42px;
+  font-weight: bold;
+  }
+
+#phone {
+    height: 100px;
+    width: 75px
+    text-align:center;
+  }
+
+  #footer p {
+    text-align: right;
+    font-weight: bold;
+    font-size: 21px;
+    color: Gray;
+  }
